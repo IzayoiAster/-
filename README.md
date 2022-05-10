@@ -1,2 +1,1 @@
-# -
-用于十六夜紫菀的博客的图床
+## Izayoi Aster's Image Hosting
