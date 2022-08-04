@@ -1,1 +1,1 @@
-## Izayoi Aster's Image Hosting
+## Izayoi Aster's Image Hosting Repo
